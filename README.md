@@ -1,2 +1,2 @@
 # kottans-backend
-some stuff
+Finished first task. 
