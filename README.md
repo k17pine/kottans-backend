@@ -7,4 +7,6 @@ Finally done Unix Shell part. There was some new commands, like for printing que
 
 ## Git Collaboration
 ![screen](task_git_collaboration/screen2.jpg)
- 
+
+## Python Basics 1
+https://www.hackerrank.com/k17pine 
