@@ -131,4 +131,4 @@ TRACE: used to retrieve the hops that a request takes to round trip from the ser
 OPTIONS: used to retrieve the server capabilities. On the client-side, it can be used to modify the request based on what the server can support.
 
 ## Patterns
-![screen](task_networks/screen5.jpg)
+![screen](task_patterns/screen5.jpg)
