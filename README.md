@@ -132,3 +132,7 @@ OPTIONS: used to retrieve the server capabilities. On the client-side, it can be
 
 ## Patterns
 ![screen](task_patterns/screen5.jpg)
+
+## File System
+![FS](file_system/secret.txt)
+![FS](file_system/file_system_task.py)
