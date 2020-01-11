@@ -136,3 +136,11 @@ OPTIONS: used to retrieve the server capabilities. On the client-side, it can be
 ## File System
 ![FS](file_system/secret.txt)
 ![FS](file_system/file_system_task.py)
+
+## Runtime, Ecosystem and I/O
+
+## Databases
+
+## Weather APP
+
+Done :3
